@@ -67,13 +67,24 @@ To get started with this Chat Application, follow these steps:
 - **Socket.io**: A library for real-time, bidirectional communication.
 - **Cloudinary**: A cloud-based media management service for image upload and storage.
 
-## Contributing
-Contributions to this project are welcome! Feel free to submit issues or pull requests.
+## 🤝 Contributing
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Contributions are welcome! To contribute:
 
-Happy Chatting! 🚀📱💬
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/new-feature`)
+3. Commit changes (`git commit -m "Add new feature"`)
+4. Push to branch (`git push origin feature/new-feature`)
+5. Open a Pull Request 🎉
+
+---
+
+## 👤 Author
+
+* **Abdul Hannan**
+  GitHub: [@abdul-hannan-SE](https://github.com/abdul-hannan-SE)
+
+📧 Email: [contact.hannan1000@gmail.com](mailto:contact.hannan1000@gmail.com)
 
 
     
